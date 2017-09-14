@@ -1,13 +1,14 @@
 # My Coin Portfolio
 ## [DEMO](https://mycoinportfolio.000webhostapp.com/)
+![My Coin Portfolio Screenshot](https://i.imgur.com/DAM4t9x.png)
 
 My Coin Portfolio is a **web portfolio** for your cryptocurrency needs. 
 MCP follows a holistic approach for organising your cryptocurrency portfolio. 
 The webpage acts as an "observatory" for your portfolio's performance and for news around cryptocurrency.
 
-MCP utilises the powerful CoinMarketCap API to bring you the latest prices in real time. 
-MCP is optimised for mobile view and it is designed based on the principles of simplicity and clarity. 
-MCP is developed using HTML, PHP, and Javascript.
+- MCP utilises the powerful CoinMarketCap API to bring you the latest prices in real time. 
+- MCP is responsive and optimised for mobile view. 
+- MCP is developed using HTML, PHP, and Javascript.
 
 ## Setup
 
@@ -44,6 +45,8 @@ The sum of all Coin Investments is your total Coin Investment.
 This sum is subtracted from the Gross Investment (that you register manually) and there you have the Exchange Fees etc. 
 The Mining Expenses - if any - are registered manually.
 
+(PS. To find each coin's Coin ID from CoinMarketCap [check here](https://ibb.co/gcG9Wv).)
+
 ## 3. My Watchlist
 
 At this tab, you get many info on coins and tokens that interest you. 
@@ -71,9 +74,9 @@ By default it includes the "cryptocurrency" tags of Reddit and Steemit, as well 
 - Feel free to open an Issue ticket in this repo for any suggestion, problem, question you might have. 
 I will try to address them on time. 
 - Feel free to fork the repo and play with it. 
-- If you like My Coin Portfolio and you want to show it, feel free to tip me a cup of coffee or a beer at the following addresses. But even if you don't want to show it, **thank** you for being here and using my code. 
-  - BTC: wefwefwefwefwfwefwef
-  - ETH: ewfwefwefwef
+- My Coin Portfolio is absolutely **FREE**, developed and provided by `bitr8jorge`. No referral links or similar ways are used to monetise MCP. If you like My Coin Portfolio and you want to show it, feel free to tip a cup of coffee or a beer at the following addresses. But even if you don't want to show it, **thank you** for being here and using my code. 
+  - BTC: `1Dz8EwYpHytTH8piMZNqbo1i7jWVC76k6s`
+  - ETH: `0x62E0bDC2C474d793F362b35aE463Aea2EedAE85d`
 - Please feel free to post and share your creations and your coin collection.
 
 May the Crypto be with you.
