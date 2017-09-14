@@ -96,7 +96,7 @@ $newsnumber = "40"; // The NUMBER of NEWS stories you want to get.
 
 ///////////// COMMUNITY POSTS ////////////////////
 
-$communitypostslink = "http://rssmix.com/u/8252418/rss.xml"; // the RSS feed link for community posts. RSSMIX.com is a nice service for mixing several RSS feeds.
+$communitypostslink = "http://rssmix.com/u/8252497/rss.xml"; // the RSS feed link for community posts. RSSMIX.com is a nice service for mixing several RSS feeds.
 $communitypostsnumber = "40"; // The NUMBER of COMMUNITY POSTS you want to get.
 
 ?>
